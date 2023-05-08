@@ -1,4 +1,4 @@
 # Demo-DTA
-Bug in DoanhThu ->done fixed
+Bug in DoanhThu 
 
 Bug in PhieuSuaXe
